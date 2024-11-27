@@ -71,3 +71,26 @@
 </div>
 
 ###
+
+<h2 align="left">Certified In</h2>
+
+<a href="https://www.credly.com/badges/4be33c9d-07b4-4435-80b6-9ba38594446f/public_url" target="_blank">
+  <img src="images/github-actions.png" height="70" alt="GitHub Actions logo" />
+</a>
+<a href="https://www.credly.com/badges/9d132f4a-d1dd-4575-b73b-535178882727/public_url" target="_blank">
+  <img src="images/github-administration.png" height="70" alt="GitHub Administrator logo" />
+</a>
+<a href="https://www.credly.com/badges/d8acbec4-42b3-4fc8-a177-54766c151af9/public_url" target="_blank">
+  <img src="images/github-advanced-security.png" height="70" alt="GitHub Advanced Security logo" />
+</a>
+<a href="https://www.credly.com/badges/81a5612f-d72e-4494-8e06-452b92f29e3f/public_url"" target="_blank">
+  <img src="images/github-copilot.png" height="70" alt="GitHub Copilot logo" />
+</a>
+
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/MathewPadley-5004/93CB7025D6DB754?sharingId=1372D83FBA4113B" target="_blank">
+<img src="images/microsoft-certified-associate-badge.svg" height="70" alt="Microsoft Certified Associate logo" />
+</a>  
+<a href="https://learn.microsoft.com/api/credentials/share/en-gb/MathewPadley-5004/D959C94DD969F5B3?sharingId=1372D83FBA4113B" target="_blank">
+  <img src="images/microsoft-certified-expert-badge.svg" height="70" alt="Microsoft Certified Expert logo" />
+</a>
+

@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Good morning, evening or afternoon</h1>
 
 ###
 
-<p align="left">My name is .Mat Padley and I'm a developer and GitHub enthusiast, from Manchester in the UK</p>
+<p align="left">I'm Mat Padley and I'm a developer and GitHub enthusiast, from Manchester in the UK</p>
 
 ###
 

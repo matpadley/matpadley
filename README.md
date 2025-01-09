@@ -12,6 +12,21 @@
 
 <p align="left">✨ Creating bugs since 1997<br>📚 I'm currently learning Golang and Swift<br>🎯 Goals: write two libraries (Darts and WorldWonderer), one for C# and the other in Swift</p>
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/matpadley" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+###
+
+<h2 aligh="left">Stats</h2>
+<div>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matpadley&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
+
 ###
 
 <h2 align="left">I code with</h2>
@@ -100,4 +115,3 @@
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MathewPadley-5004/D959C94DD969F5B3?sharingId=1372D83FBA4113B" target="_blank">
   <img src="images/microsoft-certified-expert-badge.svg" height="70" alt="Microsoft Certified Expert logo" />
 </a>
-

@@ -19,14 +19,13 @@
 </div>
 
 ###
-<!--
+
 <h2 aligh="left">Stats</h2>
 <div>
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matpadley&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+![matpadley's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matpadley&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+  
 </div>
--->
 
 ###
 

@@ -23,7 +23,8 @@
 <h2 aligh="left">Stats</h2>
 <div>
 
-![matpadley's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matpadley&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+![matpadley's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matpadley&theme=vue&show_icons=true&hide_border=true&layout=compact)
+
   
 </div>
 

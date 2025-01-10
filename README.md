@@ -22,10 +22,9 @@
 
 <h2 aligh="left">Stats</h2>
 <div>
-
-![matpadley's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matpadley&theme=vue&show_icons=true&hide_border=true&layout=compact)
-
-  
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matpadley&layout=compact&langs_count=8&card_width=320" />
+</a>
 </div>
 
 ###

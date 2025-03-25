@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1997<br>📚 I'm currently learning Golang and Swift<br>🎯 Goals: write two libraries (Darts and WorldWonderer), one for C# and the other in Swift</p>
+<p align="left">✨ Creating bugs since 1997<br>📚 I'm currently learning Golang<br>🎯 Goals: write two libraries (Darts and WorldWonderer), one for C# and the other in Swift</p>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/matpadley" target="_blank">

@@ -20,7 +20,7 @@
 
 ###
 
-<h2 aligh="left">Stats</h2>
+<h2 align="left">Stats</h2>
 <div>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=matpadley&layout=compact&langs_count=8&card_width=320" />
@@ -33,10 +33,9 @@
 
 ###
 
-<span>
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="vertical-align: middle" />
-</span>
-
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" style="vertical-align: middle" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" style="vertical-align: middle" />
@@ -62,12 +61,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" style="vertical-align: middle" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" style="vertical-align: middle" />
-
+</div>
 
 ###
 
 <h2 align="left">I also use</h2>
 
+<div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="vertical-align: middle" />
   <img width="12" />
@@ -90,7 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" style="vertical-align: middle" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="vertical-align: middle" />
-
+</div>
 
 ###
 

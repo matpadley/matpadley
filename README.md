@@ -33,7 +33,7 @@
 
 ###
 
-<div align="left">
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" style="vertical-align: middle" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" style="vertical-align: middle" />
@@ -61,13 +61,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo" style="vertical-align: middle" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo" style="vertical-align: middle" />
-</div>
+
 
 ###
 
 <h2 align="left">I also use</h2>
 
-<div align="left">
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" style="vertical-align: middle" />
   <img width="12" />
@@ -90,7 +89,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="40" alt="azure logo" style="vertical-align: middle" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="vertical-align: middle" />
-</div>
+
 
 ###
 
@@ -110,7 +109,7 @@
 </a>
 
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MathewPadley-5004/93CB7025D6DB754?sharingId=1372D83FBA4113B" target="_blank">
-<img src="images/microsoft-certified-associate-badge.svg" height="70" alt="Microsoft Certified Associate logo" />
+  <img src="images/microsoft-certified-associate-badge.svg" height="70" alt="Microsoft Certified Associate logo" />
 </a>  
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MathewPadley-5004/D959C94DD969F5B3?sharingId=1372D83FBA4113B" target="_blank">
   <img src="images/microsoft-certified-expert-badge.svg" height="70" alt="Microsoft Certified Expert logo" />

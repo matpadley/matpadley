@@ -95,7 +95,6 @@
 <a href="https://www.credly.com/badges/81a5612f-d72e-4494-8e06-452b92f29e3f/public_url"" target="_blank">
   <img src="images/github-copilot.png" height="70" alt="GitHub Copilot logo" />
 </a>
-
 <a href="https://learn.microsoft.com/api/credentials/share/en-gb/MathewPadley-5004/93CB7025D6DB754?sharingId=1372D83FBA4113B" target="_blank">
 <img src="images/microsoft-certified-associate-badge.svg" height="70" alt="Microsoft Certified Associate logo" />
 </a>  
